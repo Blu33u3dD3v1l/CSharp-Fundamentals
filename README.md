@@ -1,2 +1,5 @@
 # CSharp-Fundamentals homework and Exams!
-I added links to problem description in every separate folder.
+Here are links to problem description and old exams.
+
+https://judge.softuni.org/Contests#!/List/ByCategory/153/Fundamentals-Exams
+https://judge.softuni.org/Contests#!/List/ByCategory/149/CSharp-Fundamentals
